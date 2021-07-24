@@ -1,5 +1,7 @@
 {
   "name": "razorpay-checkout",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
